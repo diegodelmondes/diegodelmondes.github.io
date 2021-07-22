@@ -7,3 +7,6 @@
 #
 layout: home
 ---
+## welcome to my blog!
+
+lorem ipsum sinwe jiwejfop ç
